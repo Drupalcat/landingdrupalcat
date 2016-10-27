@@ -31,3 +31,26 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fff;
   padding: 30px 0;
 }
+
+.meetup__wrapper {
+  padding: 2rem 0;
+}
+
+.meetup__iframe {
+  float: left;
+}
+
+.meetup__info {
+  float: left;
+  margin-left: 2rem;
+  width: 200px;
+}
+
+.meetup__logo {
+  width: 10rem;
+}
+
+.meetup__logo-img {
+  max-width: 100%;
+  display: block;
+}
